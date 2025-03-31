@@ -4,7 +4,7 @@ class Solution:
         if(len(needle) == 0):
             return 0
         
-        for i in range(len(haystack)):
+        for i in range(len(haystack) + 1 - len(needle) ):
             if(haystack[i: len(needle) + i] == needle):
                 return i
         return -1
