@@ -7,4 +7,6 @@ class Solution:
                 nums[i] = nums[j]
                 i += 1
 
+        # Time Complexity: O(n)
+
         return i
