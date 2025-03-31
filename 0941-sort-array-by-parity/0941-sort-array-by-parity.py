@@ -11,3 +11,5 @@ class Solution:
                 odd.append(num)
 
         return even + odd
+
+        # Time Complexity: O(n)
