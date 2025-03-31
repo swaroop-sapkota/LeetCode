@@ -6,3 +6,5 @@ class Solution:
         nums1[m:] = nums2
 
         nums1.sort() 
+
+        # Time Complexity: O((m + n) log (m + n))
