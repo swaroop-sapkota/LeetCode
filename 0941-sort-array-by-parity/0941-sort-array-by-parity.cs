@@ -1,6 +1,3 @@
-//using System;
-//using System.Collections.Generic;
-
 public class Solution {
     public int[] SortArrayByParity(int[] nums) {
 
@@ -27,30 +24,33 @@ public class Solution {
             }
         }
         return nums;
+ 
+    }
+}
 
+    // Time Complexity = O(n)
+    
 
        /*
-        List<int> even = new List<int>();
-        List<int> odd = new List<int>();
+        List<int> result = new List<int>();
 
         foreach(int num in nums)
         {
             if(num % 2 == 0)
             {
-                even.Add(num);
-            }
-            else
-            {
-                odd.Add(num);
+                result.Add(num);
             }
         }
 
-        even.AddRange(odd);
-        return even.ToArray(); 
+        foreach(int num in nums)
+        {
+            if(num % 2 != 0)
+            {
+                result.Add(num);
+            }
+        }
+
+        return result.ToArray(); 
         */
 
-            
-    }
-}
-
-    // Time Complexity = O(n)
+           
