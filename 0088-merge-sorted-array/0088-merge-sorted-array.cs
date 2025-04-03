@@ -1,27 +1,19 @@
 public class Solution {
     public void Merge(int[] nums1, int m, int[] nums2, int n) {
-        for (int i = 0; i < n; i++)
-        {
-            nums1[m + i] = nums2[i];
-        }
+        int p1 = m - 1;
+        int p2 = n - 1;
+        int i = m + n - 1;
 
-        
-        for (int i = 0; i < m + n; i++)
+        while(p2 >= 0)
         {
-            for (int j = i + 1; j < m + n; j++)
+            if(p1 >= 0 && nums1[p1] > nums2[p2])
             {
-                if (nums1[i] > nums1[j])
-                {
-                    int temp = nums1[i];
-                    nums1[i] = nums1[j];
-                    nums1[j] = temp;
-                }
+                nums1[i--] = nums1[p1--];
             }
-        }
-
-        for (int i = 0; i < m + n; i++)
-        {
-            Console.Write(nums1[i] + " ");
+            else
+            {
+                nums1[i--] = nums2[p2--];
+            }
         }
     }
 }
