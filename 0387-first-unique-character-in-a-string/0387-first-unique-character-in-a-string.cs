@@ -4,6 +4,7 @@ public class Solution {
        for(int i = 0; i < s.Length; i++)
        {
         bool isUniq = true;
+        
         for(int j = 0; j < s.Length; j++)
         {
             if(i!=j && s[i] == s[j])
