@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,13 +58,19 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/swaroop-sapkota/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/swaroop-sapkota/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
