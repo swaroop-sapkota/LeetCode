@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/swaroop-sapkota/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
