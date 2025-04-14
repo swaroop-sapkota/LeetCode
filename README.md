@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swaroop-sapkota/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -74,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swaroop-sapkota/LeetCode/tree/master/0020-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
