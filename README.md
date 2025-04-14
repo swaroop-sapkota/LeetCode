@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
