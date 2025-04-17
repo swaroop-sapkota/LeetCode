@@ -1,21 +1,21 @@
 public class RecentCounter {
-    private List<int> requests;
-    private int startIndex;
+    private List<int> pings;
+    private int start;
 
     public RecentCounter() {
-        requests = new List<int>();
-        startIndex = 0;
+        pings = new List<int>();
+        start = 0;
     }
     
     public int Ping(int t) {
-        requests.Add(t);
-
-        while (requests[startIndex] < t - 3000)
+        pings.Add(t);
+        
+        while (pings[start] < t - 3000)
         {
-            startIndex++;
+            start++;
         }
+        return pings.Count - start;
 
-        return requests.Count - startIndex;
     }
 }
 
