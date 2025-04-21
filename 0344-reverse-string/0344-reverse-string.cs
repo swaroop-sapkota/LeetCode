@@ -1,5 +1,6 @@
 public class Solution {
     public void ReverseString(char[] s) {
+        
         char[] reversed = new char[]{};
 
         int j = s.Length - 1;
