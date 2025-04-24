@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
