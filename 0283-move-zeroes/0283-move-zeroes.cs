@@ -12,10 +12,10 @@ public class Solution {
             }
             
         }
-
-        for(int j = x; j < nums.Length; j++)
+        while(x < nums.Length)
         {
-            nums[j] = 0;
+            nums[x] = 0;
+            x++;
         }
         
     }
