@@ -106,6 +106,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,8 +115,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
