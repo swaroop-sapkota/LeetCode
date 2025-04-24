@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/swaroop-sapkota/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swaroop-sapkota/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## String
@@ -77,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/swaroop-sapkota/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
@@ -101,4 +105,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
