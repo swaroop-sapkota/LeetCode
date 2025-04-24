@@ -17,10 +17,8 @@ public class Solution {
 
             n = sum;
 
-            if (usedIntegers.Contains(n))
-            {
-                return false;
-            }
+            if (usedIntegers.Contains(n)) return false;
+            
             usedIntegers.Add(n);
         }
 }
