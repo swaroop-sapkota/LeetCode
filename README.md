@@ -104,9 +104,18 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
