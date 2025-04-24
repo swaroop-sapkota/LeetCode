@@ -1,24 +1,27 @@
 public class Solution {
     public bool IsHappy(int n) {
         
-        HashSet<int> seen = new HashSet<int>();
+        HashSet<int> usedIntegers = new HashSet<int>();
 
-        while (n != 1 && !seen.Contains(n))
+        while (true)
         {
-            seen.Add(n);
-            
-            int sumOfSq = 0;
+            int sum = 0;
             while(n > 0)
             {
                 int digit = n % 10;
-                sumOfSq += digit * digit;
+                sum += digit * digit;
                 n /= 10;
             }
-            n = sumOfSq;
 
+            if (sum == 1) return true;
+
+            n = sum;
+
+            if (usedIntegers.Contains(n))
+            {
+                return false;
+            }
+            usedIntegers.Add(n);
         }
-        
-        return n == 1;
-        
-    }
+}
 }
