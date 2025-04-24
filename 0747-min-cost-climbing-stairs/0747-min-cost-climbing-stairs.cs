@@ -9,10 +9,11 @@ public class Solution {
 
         for(int i = 2; i <= n; i++)
         {
+            dp[i] = Math.Min(dp[i - 1] + cost[i - 1], dp[i - 2] + cost[i - 2]);
+
+            /*
             int one = dp[i - 1] + cost[i - 1];
             int two = dp[i - 2] + cost[i - 2];
-            
-
             if(one < two)
             {
                 dp[i] = one;
@@ -21,6 +22,7 @@ public class Solution {
             {
                 dp[i] = two;
             }
+            */
         }
 
         return dp[n];
