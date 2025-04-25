@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/swaroop-sapkota/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
@@ -65,6 +66,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
