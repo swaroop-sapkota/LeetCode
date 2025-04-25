@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/swaroop-sapkota/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 | [1297-maximum-number-of-balloons](https://github.com/swaroop-sapkota/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/swaroop-sapkota/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swaroop-sapkota/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## String
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -109,6 +113,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -129,4 +134,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
