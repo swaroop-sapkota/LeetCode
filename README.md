@@ -115,6 +115,7 @@
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/swaroop-sapkota/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -140,4 +141,5 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/swaroop-sapkota/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/swaroop-sapkota/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
