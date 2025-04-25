@@ -142,4 +142,9 @@
 | [0035-search-insert-position](https://github.com/swaroop-sapkota/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/swaroop-sapkota/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/swaroop-sapkota/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/swaroop-sapkota/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
