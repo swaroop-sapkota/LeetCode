@@ -15,9 +15,9 @@ public class Solution {
             }
         }
 
-        k--;
+        
 
-        while(k > 0)
+        while(k > 1)
         {
             int total = 0;
 
