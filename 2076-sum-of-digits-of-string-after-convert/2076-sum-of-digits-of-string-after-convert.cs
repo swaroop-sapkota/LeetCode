@@ -21,10 +21,12 @@ public class Solution {
         {
             int total = 0;
 
-            foreach(char digit in sum.ToString())
+            while(sum > 0)
             {
-                total += digit - '0';
+                total += (sum % 10);
+                sum /= 10;
             }
+            
             sum = total;
             k--;
         }
