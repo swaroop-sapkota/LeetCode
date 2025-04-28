@@ -3,11 +3,10 @@ public class Solution {
 
         int sum = 0;
 
-        //string st = "";
 
         foreach(char c in s)
         {
-            int num = c - 'a' + 1;
+            int num = c - 96;
 
             while(num > 0)
             {
