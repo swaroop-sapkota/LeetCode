@@ -62,6 +62,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/swaroop-sapkota/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/swaroop-sapkota/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/swaroop-sapkota/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -82,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/swaroop-sapkota/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/swaroop-sapkota/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -124,6 +126,7 @@
 | [0202-happy-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/swaroop-sapkota/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/swaroop-sapkota/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
