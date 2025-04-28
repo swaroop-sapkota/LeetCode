@@ -41,6 +41,7 @@
 | [0541-reverse-string-ii](https://github.com/swaroop-sapkota/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/swaroop-sapkota/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/swaroop-sapkota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0657-robot-return-to-origin](https://github.com/swaroop-sapkota/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1297-maximum-number-of-balloons](https://github.com/swaroop-sapkota/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/swaroop-sapkota/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/swaroop-sapkota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0020-valid-parentheses](https://github.com/swaroop-sapkota/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2128-reverse-prefix-of-word](https://github.com/swaroop-sapkota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
