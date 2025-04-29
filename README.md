@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/swaroop-sapkota/LeetCode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/swaroop-sapkota/LeetCode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/swaroop-sapkota/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/swaroop-sapkota/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
