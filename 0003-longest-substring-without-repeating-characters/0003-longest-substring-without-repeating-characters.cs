@@ -2,20 +2,22 @@ public class Solution {
     public int LengthOfLongestSubstring(string s) {
         HashSet<char> hash = new HashSet<char>();
         int maxLength = 0;
-        int left = 0;
+        int left = 0, right = 0;
 
-        for(int right = 0; right < s.Length; right++)
+        while(right < s.Length)
         {
-            while(hash.Contains(s[right]))
+            if(!hash.Contains(s[right]))
+            {
+                hash.Add(s[right]);
+                maxLength = Math.Max(maxLength, right - left + 1);
+                right++;
+            }
+            else
             {
                 hash.Remove(s[left]);
                 left++;
             }
-
-            hash.Add(s[right]);
-            maxLength = Math.Max(maxLength, right - left + 1);
         }
-
         return maxLength;
     }
 }
