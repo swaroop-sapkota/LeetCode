@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/swaroop-sapkota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/swaroop-sapkota/LeetCode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/swaroop-sapkota/LeetCode/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@
 | [0268-missing-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/swaroop-sapkota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/swaroop-sapkota/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swaroop-sapkota/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/swaroop-sapkota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/swaroop-sapkota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/swaroop-sapkota/LeetCode/tree/master/0506-relative-ranks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/swaroop-sapkota/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
