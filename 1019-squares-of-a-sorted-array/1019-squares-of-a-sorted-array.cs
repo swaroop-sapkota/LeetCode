@@ -4,25 +4,24 @@ public class Solution {
         int[] result = new int[n];
         int p1 = 0, p2 = n - 1;
 
-        int pos = n - 1;
-
-        while(p1 <= p2)
+        for(int i = 0; i < n; i++)
         {
-            int left = nums[p1] * nums[p1];
-            int right = nums[p2] * nums[p2];
+            nums[i] = nums[i] * nums[i];
+        }
 
-            if(left > right)
+        for(int x = n - 1; x >= 0; x--)
+        {
+            if(nums[p1] > nums[p2])
             {
-                result[pos--] = left;
+                result[x] = nums[p1];
                 p1++;
             }
             else
             {
-                result[pos--] = right;
+                result[x] = nums[p2];
                 p2--;
             }
         }
-
         return result;
     }
 }
