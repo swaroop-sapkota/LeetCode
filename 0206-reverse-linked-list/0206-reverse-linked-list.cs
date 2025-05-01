@@ -12,6 +12,36 @@
 public class Solution {
     public ListNode ReverseList(ListNode head) {
         
+        if(head == null)
+        {
+            return null;
+        }
+
+        if(head.next == null)
+        {
+            return head;
+        }
+
+        ListNode preNode = null;
+
+        ListNode currNode = head;
+
+        while(currNode != null)
+        {
+            ListNode nextNode = currNode.next;
+            currNode.next = preNode;
+            preNode = currNode;
+            currNode = nextNode;
+
+        }
+
+        head = preNode;
+
+        return head;
+    }
+}
+
+/*
         Stack<int> stack = new Stack<int>();
 
         while(head != null)
@@ -32,5 +62,4 @@ public class Solution {
         }
 
         return result.next;
-    }
-}
+*/
