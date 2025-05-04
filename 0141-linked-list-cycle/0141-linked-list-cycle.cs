@@ -9,30 +9,6 @@
  *     }
  * }
  */
-
-public class Solution {
-    public bool HasCycle(ListNode head) {
-        if (head == null || head.next == null) return false;  // Edge case for very short lists
-
-        ListNode slowPtr = head;
-        ListNode fastPtr = head.next;  // Start fastPtr one step ahead for better logic
-
-        // Start a slow and fast pointer
-        while (fastPtr != null && fastPtr.next != null) {
-            if (slowPtr == fastPtr) {
-                return true; // Cycle found
-            }
-
-            // Advance both the pointers
-            slowPtr = slowPtr.next;
-            fastPtr = fastPtr.next.next;
-        }
-
-        return false; // No cycle
-    }
-}
-
- /*
 public class Solution {
     public bool HasCycle(ListNode head) {
 
@@ -59,5 +35,26 @@ public class Solution {
         return false;
     }
 }
+
+/*
+        // HashSet to store visited nodes
+        HashSet<ListNode> visitedNodes = new HashSet<ListNode>();
+        
+        // Traverse the linked list
+        while (head != null) {
+            // If the current node is already in the hash set, cycle is detected
+            if (visitedNodes.Contains(head)) {
+                return true;
+            }
+            
+            // Add current node to the hash set
+            visitedNodes.Add(head);
+            
+            // Move to the next node
+            head = head.next;
+        }
+        
+        // No cycle found
+        return false;
 
 */
