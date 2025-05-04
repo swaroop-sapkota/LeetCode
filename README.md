@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/swaroop-sapkota/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/swaroop-sapkota/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/swaroop-sapkota/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/swaroop-sapkota/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/swaroop-sapkota/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/swaroop-sapkota/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swaroop-sapkota/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
