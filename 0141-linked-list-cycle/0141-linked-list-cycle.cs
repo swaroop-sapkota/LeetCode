@@ -35,26 +35,3 @@ public class Solution {
         return false;
     }
 }
-
-/*
-        // HashSet to store visited nodes
-        HashSet<ListNode> visitedNodes = new HashSet<ListNode>();
-        
-        // Traverse the linked list
-        while (head != null) {
-            // If the current node is already in the hash set, cycle is detected
-            if (visitedNodes.Contains(head)) {
-                return true;
-            }
-            
-            // Add current node to the hash set
-            visitedNodes.Add(head);
-            
-            // Move to the next node
-            head = head.next;
-        }
-        
-        // No cycle found
-        return false;
-
-*/
