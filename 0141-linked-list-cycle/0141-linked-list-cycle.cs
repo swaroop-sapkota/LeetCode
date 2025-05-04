@@ -9,6 +9,30 @@
  *     }
  * }
  */
+
+public class Solution {
+    public bool HasCycle(ListNode head) {
+        if (head == null || head.next == null) return false;  // Edge case for very short lists
+
+        ListNode slowPtr = head;
+        ListNode fastPtr = head.next;  // Start fastPtr one step ahead for better logic
+
+        // Start a slow and fast pointer
+        while (fastPtr != null && fastPtr.next != null) {
+            if (slowPtr == fastPtr) {
+                return true; // Cycle found
+            }
+
+            // Advance both the pointers
+            slowPtr = slowPtr.next;
+            fastPtr = fastPtr.next.next;
+        }
+
+        return false; // No cycle
+    }
+}
+
+ /*
 public class Solution {
     public bool HasCycle(ListNode head) {
 
@@ -35,3 +59,5 @@ public class Solution {
         return false;
     }
 }
+
+*/
