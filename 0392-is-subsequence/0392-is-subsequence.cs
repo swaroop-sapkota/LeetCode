@@ -2,19 +2,13 @@ public class Solution {
     public bool IsSubsequence(string s, string t) {
         
         int i = 0;
-        int j = 0;
-
-        while(i < s.Length && j < t.Length)
+        foreach(char c in t)
         {
-            if(s[i] == t[j])
+            if(i < s.Length && s[i] == c)
             {
                 i++;
             }
-
-            j++;
         }
-
-        if(i == s.Length) return true;
-        else return false;
+        return i == s.Length;
     }
 }
