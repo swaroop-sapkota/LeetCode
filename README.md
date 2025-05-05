@@ -52,6 +52,7 @@
 | [0283-move-zeroes](https://github.com/swaroop-sapkota/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/swaroop-sapkota/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/swaroop-sapkota/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/swaroop-sapkota/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/swaroop-sapkota/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -83,6 +84,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swaroop-sapkota/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/swaroop-sapkota/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/swaroop-sapkota/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/swaroop-sapkota/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/swaroop-sapkota/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/swaroop-sapkota/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/swaroop-sapkota/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
