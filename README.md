@@ -118,6 +118,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/swaroop-sapkota/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/swaroop-sapkota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/swaroop-sapkota/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swaroop-sapkota/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/swaroop-sapkota/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/swaroop-sapkota/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/swaroop-sapkota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/swaroop-sapkota/LeetCode/tree/master/0682-baseball-game) |
@@ -139,6 +141,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/swaroop-sapkota/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/swaroop-sapkota/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
